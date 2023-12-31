@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13368abd-4f18-444a-ad3c-64f2f1248fb8" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/04_deep-learning-computation/03.custom-layer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_deep-learning-computation/04.read-write.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_deep-learning-computation/05.use-gpu.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_convolutional-neural-networks/02.padding-and-strides.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_convolutional-neural-networks/05.lenet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_convolutional-modern/02.vgg.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_convolutional-modern/03.nin.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_convolutional-modern/04.googlenet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_convolutional-modern/05.batch-norm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_convolutional-modern/06.resnet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_convolutional-modern/07.densenet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_recurrent-neural-networks/02.text-preprocessing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_recurrent-neural-networks/03.language-models-and-dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_recurrent-neural-networks/04.rnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_recurrent-neural-networks/05.rnn-scratch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_recurrent-neural-networks/06.rnn-concise.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_recurrent-modern/02.lstm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_recurrent-modern/03.deep-rnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_recurrent-modern/04.bi-rnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_recurrent-modern/05.machine-translation-and-dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_recurrent-modern/06.encoder-decoder.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_recurrent-modern/07.seq2seq.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_attention-mechanisms/02.nadaraya-waston.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_attention-mechanisms/03.attention-scoring-functions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_attention-mechanisms/04.bahdanau-attention.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_attention-mechanisms/05.multihead-attention.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_attention-mechanisms/06.self-attention-and-positional-encoding.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_attention-mechanisms/07.transformer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_optimization/02.convexity.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_optimization/03.gd.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_optimization/04.sgd.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_optimization/05.minibatch-sgd.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_optimization/06.momentum.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_optimization/07.adagrad.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_optimization/08.rmsprop.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_optimization/09.adadelta.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_optimization/10.adam.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_optimization/11.lr-scheduler.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_computational-performance/02.async-computation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_computational-performance/03.auto-parallelism.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_computational-performance/04.multiple-gpus.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_computational-performance/05.multiple-gpus-concise.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/02.fine-tuning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/03.bounding-box.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/04.anchor.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/05.multiscale-object-detection.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/06.object-detection-dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/07.ssd.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/08.rcnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/09.semantic-segmentation-and-dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/10.transposed-conv.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/11.fcn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/12.neural-style.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/13.kaggle-cifar10.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/14.kaggle-dog.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_computer-vision/imgs/banana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_natural-language-processing-pretraining/02.word2vec-pretraining.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_natural-language-processing-pretraining/03.subword-embedding.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_natural-language-processing-pretraining/04.similarity-analogy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_natural-language-processing-pretraining/05.bert.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_natural-language-processing-pretraining/06.bert-dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_natural-language-processing-pretraining/07.bert-pretraining.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_natural-language-processing-applications/02.sentiment-analysis-rnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_natural-language-processing-applications/03.sentiment-analysis-cnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_natural-language-processing-applications/04.natural-language-inference-and-dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_natural-language-processing-applications/05.natural-language-inference-attention.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_natural-language-processing-applications/06.natural-language-inference-bert.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_linear-networks/02.linear-regression-scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_linear-networks/02.linear-regression-scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_linear-networks/04.image-classification-dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_linear-networks/04.image-classification-dataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_multilayer-perceptrons/04.underfit-overfit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03_multilayer-perceptrons/04.underfit-overfit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_multilayer-perceptrons/05.weight-decay.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03_multilayer-perceptrons/05.weight-decay.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_multilayer-perceptrons/06.dropout.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03_multilayer-perceptrons/06.dropout.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_convolutional-neural-networks/01.conv-layer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05_convolutional-neural-networks/01.conv-layer.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2a1wCk1UfrtuDprqNunx5HC2xlQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Desktop/zongliang/learn_d2l/12_computer-vision/imgs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\zongliang\learn_d2l\12_computer-vision\imgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\zongliang\learn_d2l\01_preliminaries" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13368abd-4f18-444a-ad3c-64f2f1248fb8" name="Changes" comment="" />
+      <created>1703499271116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703499271116</updated>
+      <workItem from="1703499281312" duration="9650000" />
+      <workItem from="1703548903092" duration="18839000" />
+      <workItem from="1703993323229" duration="286000" />
+      <workItem from="1703993879825" duration="5681000" />
+      <workItem from="1704000240673" duration="11000" />
+      <workItem from="1704000575419" duration="3831000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1703501328892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703501328892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
